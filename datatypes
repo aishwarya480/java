@@ -32,7 +32,7 @@ public class DataTypes
     {
         System.out.println("Hello");
 
-        String name = "Harshini";
+        String name = "Aishwarya";
         System.out.println("name:"+name);
 
 
